@@ -1,0 +1,5 @@
+Theoretical:
+Explain the difference between var, let, and const in JavaScript. When should you use each one?
+var: Old and function-scoped. Avoid using it due to hoisting and scope issues.
+let: wBlock-scoped, allows reassignment. Use for variables that change.
+const: Block-scoped, cannot be reassigned. Use for values that should remain constant.
