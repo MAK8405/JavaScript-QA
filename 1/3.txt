@@ -1,0 +1,2 @@
+What is a promise in JavaScript? How does it help with asynchronous operations?
+A promise represents a value that may be available now, or in the future, or never. It is used to handle asynchronous operations. A promise can be in three states: pending, fulfilled, or rejected.
