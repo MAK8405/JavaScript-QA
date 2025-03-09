@@ -1,0 +1,7 @@
+What is the purpose of the this keyword in JavaScript, and how does its value differ in regular functions and arrow functions?
+1. Purpose of this:
+    This refers to the current object, used to access its properties and methods.
+2. Regular functions vs Arrow functions:
+    Regular functions: this refers to the object calling the function.
+    Arrow functions: this inherits from the surrounding context, not the calling object.
+
